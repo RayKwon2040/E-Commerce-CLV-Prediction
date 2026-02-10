@@ -22,7 +22,7 @@ The objective of this project is to develop a CLV prediction model. By leveragin
 
 ## Exploratory Data Analysis (EDA)
 
-### Visualization of continuous variables
+### Visualization of variables
 
 ![EDA1](image/EDA1_revise.png)
 
