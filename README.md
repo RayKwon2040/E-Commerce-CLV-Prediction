@@ -74,5 +74,15 @@ Therefore, product and service improvements should be implemented broadly rather
 
 ## Feature Importance
 
-![featureimportance](image/modelresults.png)
+![featureimportance](image/featureimportance.png)
+
+## Conclusion
+
+To summarize, customer lifetime value (CLV) was predicted using historical transaction features such as product category, payment method, return rate, and others.
+
+Five models—Linear Regression, Decision Tree, Random Forest, Gradient Boosting, and XGBoost—were evaluated for CLV prediction in an e-commerce setting. Among them, the XGBoost model achieved the best performance in terms of MAE, with a value of 9,252, indicating the lowest average prediction error. (Feature importance analysis shows that payment method and return rate contribute the most to the model’s performance.)
+
+Although the linear regression model achieved better RMSE and R² scores, MAE is a more relevant metric for typical customers, and the lower MAE of XGBoost indicates better practical prediction accuracy. Therefore, the XGBoost model is selected as the final model for CLV prediction.
+
+
 
