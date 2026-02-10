@@ -16,3 +16,5 @@ The objective of this project is to develop a CLV prediction model. By leveragin
 4. Model Development
 5. Feature Importance
 6. Conclusion
+
+image/WORKFLOW.png
