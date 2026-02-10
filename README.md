@@ -45,8 +45,14 @@ Churn and return rates do not appear to be heavily concentrated in any specific 
 
 Therefore, product and service improvements should be implemented broadly rather than targeting specific customer segments or products.
 
-### Feature Engineering
+## Feature Engineering
 
 ![FEATUREENGINEERING](image/FEATUREENGINEERING.png)
 
+1. Create dummy variables to represent categorical variables
+2. Group by customers
+3. Calculation CLV - (Purchase value X Frequency X Customer lifespan)
+
+*Independent Variable  -> [['Total_returns','Books', 'Clothing', 'Electronics', 'Furniture', 'Payment_Cash','Payment_Credit', 'Payment_Paypal', 'Gender_Female','Age', 'churn']]
+*Dependent Variable -> [['CLV']]
 
