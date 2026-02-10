@@ -24,7 +24,7 @@ The objective of this project is to develop a CLV prediction model. By leveragin
 
 ### Visualization of continuous variables
 
-![EDA1](image/EDA1.png)
+![EDA1](image/EDA1_revise.png)
 
 ### Churn and return rates show heavily concentrated in any specific variables?
 
