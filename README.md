@@ -26,6 +26,8 @@ The objective of this project is to develop a CLV prediction model. By leveragin
 
 ![EDA1](image/EDA1_revise.png)
 
+![EDA2](image/EDA2.png)
+
 ### Churn and return rates show heavily concentrated in any specific variables?
 
 ![EDA3](image/EDA3.png)
@@ -47,6 +49,9 @@ Therefore, product and service improvements should be implemented broadly rather
 
 ## Feature Engineering
 
+
+
+
 ![FEATUREENGINEERING](image/FEATUREENGINEERING.png)
 
 1. Create dummy variables to represent categorical variables
@@ -57,4 +62,9 @@ Therefore, product and service improvements should be implemented broadly rather
 
 
 *Dependent Variable -> [['CLV']]
+
+## Model Development
+
+![model](image/result.png)
+
 
