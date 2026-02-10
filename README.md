@@ -54,5 +54,7 @@ Therefore, product and service improvements should be implemented broadly rather
 3. Calculation CLV - (Purchase value X Frequency X Customer lifespan)
 
 *Independent Variable  -> [['Total_returns','Books', 'Clothing', 'Electronics', 'Furniture', 'Payment_Cash','Payment_Credit', 'Payment_Paypal', 'Gender_Female','Age', 'churn']]
+
+
 *Dependent Variable -> [['CLV']]
 
