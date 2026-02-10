@@ -17,4 +17,31 @@ The objective of this project is to develop a CLV prediction model. By leveragin
 5. Feature Importance
 6. Conclusion
 
-image/WORKFLOW.png
+![workflow](image/WORKFLOW.png)
+
+
+## Exploratory Data Analysis (EDA)
+
+### Visualization of continuous variables
+
+![EDA1](image/EDA1.png)
+
+### Churn and return rates show heavily concentrated in any specific variables?
+
+![EDA3](image/EDA3.png)
+
+![EDA4](image/EDA4.png)
+
+### Key Findings
+
+The churn rate is 20%, and the return rate is 50%. These rates are evenly distributed across the following factors:
+
+- Product Category
+- Payment Method
+- Gender
+- Customer Age
+
+Churn and return rates do not appear to be heavily concentrated in any specific feature. Although the churn rate is slightly higher among customers in their 20s and lower among those in their 40s, returns are relatively evenly distributed across age groups.
+
+Therefore, product and service improvements should be implemented broadly rather than targeting specific customer segments or products.
+
