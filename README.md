@@ -67,4 +67,12 @@ Therefore, product and service improvements should be implemented broadly rather
 
 ![model](image/result.png)
 
+### -
+
+![model2](image/modelresults.png)
+
+
+## Feature Importance
+
+![featureimportance](image/modelresults.png)
 
